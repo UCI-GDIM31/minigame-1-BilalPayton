@@ -4,8 +4,8 @@
 The best way I can describe the relationship between Components, GameObjects, and Scenes is in terms of how music is structured.
 In those terms, Components are the many instruments that can be used to make up a song. GameObjects are the melodies of the song,
 using instruments (Components) to create them and can utilize these instruments in a multitude of unique ways. Scenes represent 
-the songs themselves, as they are made up of melodies (GameObjects). In short, Components are needed to make GameObjects, and GameObjects
-are needed to create Scenes for any game. Each aspect of both (Songs and Scenes) is integral to creating a polished final product that is
+the songs themselves, as they are made up of melodies (GameObjects). In short, Components exist to provide as layers to GameObjects, and GameObjects
+are needed to create Scenes for any game as a whole. Each aspect of both (Songs and Scenes) is integral to creating a polished final product that is
 enjoyed for listeners/players.
 
 ## Open-Source Assets
